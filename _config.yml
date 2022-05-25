@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+layout: page
+title: 'Developing the first page'
+permalink: /first-page/
