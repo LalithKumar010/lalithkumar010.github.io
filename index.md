@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-I'm a Passionate Ethical Hacker. I go by name LexiLominite in socials my real name is Lalith Kumar. I'm from India. I'm working on developing this site this site will be recreated very soon....
+I'm a Passionate Ethical Hacker. I go by name LexiLominite in socials my real name is Lalith Kumar. I'm from India. I'm working on development of this site, this site will be recreated very soon....
 
 ## My Certifications
 - eLearnSecurity Certified Junior Penetration Tester (eJPT)
